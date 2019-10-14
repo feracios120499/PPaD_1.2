@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.2\TranspositionLibrary\bin\Debug\TranspositionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\TranspositionLibrary\bin\Debug\TranspositionLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.2\TranspositionLibrary\obj\Debug\TranspositionLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\TranspositionLibrary\obj\Debug\TranspositionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\TranspositionLibrary\obj\Debug\TranspositionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\TranspositionLibrary\obj\Debug\TranspositionLibrary.pdb

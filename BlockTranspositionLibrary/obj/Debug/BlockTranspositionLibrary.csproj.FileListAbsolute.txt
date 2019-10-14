@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.2\BlockTranspositionLibrary\bin\Debug\BlockTranspositionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\BlockTranspositionLibrary\bin\Debug\BlockTranspositionLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.2\BlockTranspositionLibrary\obj\Debug\BlockTranspositionLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\BlockTranspositionLibrary\obj\Debug\BlockTranspositionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\BlockTranspositionLibrary\obj\Debug\BlockTranspositionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\BlockTranspositionLibrary\obj\Debug\BlockTranspositionLibrary.pdb

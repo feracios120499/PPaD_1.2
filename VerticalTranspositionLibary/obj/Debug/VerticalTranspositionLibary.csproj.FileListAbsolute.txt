@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.2\VerticalTranspositionLibary\bin\Debug\VerticalTranspositionLibary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\VerticalTranspositionLibary\bin\Debug\VerticalTranspositionLibary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.2\VerticalTranspositionLibary\obj\Debug\VerticalTranspositionLibary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\VerticalTranspositionLibary\obj\Debug\VerticalTranspositionLibary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\VerticalTranspositionLibary\obj\Debug\VerticalTranspositionLibary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\VerticalTranspositionLibary\obj\Debug\VerticalTranspositionLibary.pdb

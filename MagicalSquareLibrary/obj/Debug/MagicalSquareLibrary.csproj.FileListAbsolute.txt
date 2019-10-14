@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.2\MagicalSquareLibrary\bin\Debug\MagicalSquareLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\MagicalSquareLibrary\bin\Debug\MagicalSquareLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.2\MagicalSquareLibrary\obj\Debug\MagicalSquareLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\MagicalSquareLibrary\obj\Debug\MagicalSquareLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\MagicalSquareLibrary\obj\Debug\MagicalSquareLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\MagicalSquareLibrary\obj\Debug\MagicalSquareLibrary.pdb

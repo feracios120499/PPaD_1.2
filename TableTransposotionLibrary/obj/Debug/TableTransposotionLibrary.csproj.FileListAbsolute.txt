@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.2\TableTransposotionLibrary\bin\Debug\TableTransposotionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\TableTransposotionLibrary\bin\Debug\TableTransposotionLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.2\TableTransposotionLibrary\obj\Debug\TableTransposotionLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\TableTransposotionLibrary\obj\Debug\TableTransposotionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\TableTransposotionLibrary\obj\Debug\TableTransposotionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\TableTransposotionLibrary\obj\Debug\TableTransposotionLibrary.pdb

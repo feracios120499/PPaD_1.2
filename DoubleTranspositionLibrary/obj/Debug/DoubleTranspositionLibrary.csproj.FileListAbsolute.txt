@@ -1,0 +1,6 @@
+C:\Users\Feracios\source\repos\PPaD_1.2\DoubleTranspositionLibrary\bin\Debug\DoubleTranspositionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\DoubleTranspositionLibrary\bin\Debug\DoubleTranspositionLibrary.pdb
+C:\Users\Feracios\source\repos\PPaD_1.2\DoubleTranspositionLibrary\obj\Debug\DoubleTranspositionLibrary.csprojAssemblyReference.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\DoubleTranspositionLibrary\obj\Debug\DoubleTranspositionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Feracios\source\repos\PPaD_1.2\DoubleTranspositionLibrary\obj\Debug\DoubleTranspositionLibrary.dll
+C:\Users\Feracios\source\repos\PPaD_1.2\DoubleTranspositionLibrary\obj\Debug\DoubleTranspositionLibrary.pdb
